@@ -1,0 +1,10 @@
+{
+  "first" : {
+    "title" : "First Exhibition",
+    "description" : "The very first exhibition",
+    "link" : "http://owise1.guru",
+    "works" : [{
+      "image" : "https://afremov.com/image.php?type=P&id=17697"
+    }]
+  }
+}
