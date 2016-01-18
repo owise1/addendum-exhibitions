@@ -3,8 +3,14 @@
     "title" : "First Exhibition",
     "description" : "The very first exhibition",
     "link" : "http://owise1.guru",
+    "icon" : "https://raw.githubusercontent.com/owise1/add-art-exhibitions/master/assets/first/cat.gif",
     "works" : [{
       "image" : "https://afremov.com/image.php?type=P&id=17697"
+    },
+    {
+      "image" : "https://raw.githubusercontent.com/owise1/add-art-exhibitions/master/assets/first/cat.gif",
+      "title" : "A cat forever",
+      "link" : "http://goole.com"
     }]
   }
 }
