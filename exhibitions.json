@@ -12,4 +12,20 @@
     "title" : "A cat forever",
     "link" : "http://goole.com"
   }]
-}]
+},
+{
+  "title" : "Second Exhibition",
+  "description" : "The second exhibition",
+  "link" : "http://owise1.guru",
+  "thumbnail" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg",
+  "date" : 1453160801874,
+  "works" : [{
+    "image" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg"
+  },
+  {
+    "image" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg",
+    "title" : "Beautiful flowers for a beuatiful person",
+    "link" : "http://google.com"
+  }]
+}
+]
