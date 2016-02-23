@@ -1,31 +1,42 @@
-[{
-  "title" : "First Exhibition",
-  "description" : "The very first exhibition",
-  "link" : "http://owise1.guru",
-  "thumbnail" : "https://raw.githubusercontent.com/owise1/add-art-exhibitions/master/assets/first/cat.gif",
-  "date" : 1453160501874,
-  "works" : [{
-    "image" : "https://afremov.com/image.php?type=P&id=17697"
-  },
+[
   {
-    "image" : "https://raw.githubusercontent.com/owise1/add-art-exhibitions/master/assets/first/cat.gif",
-    "title" : "A cat forever",
-    "link" : "http://goole.com"
-  }]
-},
-{
-  "title" : "Second Exhibition",
-  "description" : "The second exhibition",
-  "link" : "http://owise1.guru",
-  "thumbnail" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg",
-  "date" : 1453160801874,
-  "works" : [{
-    "image" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg"
-  },
-  {
-    "image" : "https://s-media-cache-ak0.pinimg.com/736x/c9/90/0b/c9900beb31428f062d79ce3bd007813f.jpg",
-    "title" : "Beautiful flowers for a beuatiful person",
-    "link" : "http://google.com"
-  }]
-}
+    "title" : "How long can we tolerate this?",
+    "artist" : "Leah Modigliani",
+    "description" : "<p>10 images from artist Leah Modigliani's How long can we tolerate this? An incomplete record from 1933-1999 (2016), an installation comprised of press photographs of evictions taken during the years of the Glass-Steagall Act. The installation is also a timeline, a historical archive and a representation of working and middle-class material displacement.<p></p>In the context of an increasingly divisive 2016 federal election, this work speaks to the role of the press in shaping political consensus about what constitutes a shared ethical responsibility towards others.</p><p>The Glass-Steagall act was signed into law shortly after Franklin D. Roosevelt took office in 1933. To accompany the installation, Modigliani appropriated and revised his inaugural address, updating it to speak to the present:  Only a Foolish Opportunist Can Deny the Dark Realities of the Moment: A Presidential Address (2016).</p><p>The relevance of many of FDR’s words eighty-three years later, in conjunction with the past and present evictions of working class people remind us that while democracy is a powerful aspiration, it’s also a broken promise, and a work in progress.</p>",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://40.media.tumblr.com/d0a89770ba30c5c42961a1c77f2a5dd8/tumblr_o2fy50sXY51r3pm3to1_1280.jpg",
+    "date" : 1456249277717,
+    "works" : [
+      {
+      "image" : "http://40.media.tumblr.com/d0a89770ba30c5c42961a1c77f2a5dd8/tumblr_o2fy50sXY51r3pm3to1_1280.jpg"
+      },
+      {
+      "image" : "http://41.media.tumblr.com/6f11e00a528e554df54836ac55cedbb1/tumblr_o2fy50sXY51r3pm3to3_1280.jpg"
+      },
+      {
+      "image" : "http://40.media.tumblr.com/a2591bfd15596aa312f1be2d8c219b4d/tumblr_o2fy50sXY51r3pm3to9_1280.jpg"
+      },
+      {
+      "image" : "http://36.media.tumblr.com/75cee862180d63ea49fd36f75df3a208/tumblr_o2fy50sXY51r3pm3to2_1280.jpg"
+      },
+      {
+      "image" : "http://40.media.tumblr.com/e7aa59c085e0934eded418ccfc525f28/tumblr_o2fy50sXY51r3pm3to5_1280.jpg"
+      },
+      {
+      "image" : "http://40.media.tumblr.com/32de34b423b40ec9b5dc5dc90882718b/tumblr_o2fy50sXY51r3pm3to6_1280.jpg"
+      },
+      {
+      "image" : "http://41.media.tumblr.com/32a2b7ae8f1cc43fcf6d9385ec37d445/tumblr_o2fy50sXY51r3pm3to7_1280.jpg"
+      },
+      {
+      "image" : "http://41.media.tumblr.com/a26b27ada8c6989a3db00080c3a2cf05/tumblr_o2fy50sXY51r3pm3to8_1280.jpg"
+      },
+      {
+      "image" : "http://40.media.tumblr.com/4a0898eea06bf2494742c61b8f39d1f2/tumblr_o2fy50sXY51r3pm3to4_1280.jpg"
+      },
+      {
+      "image" : "http://40.media.tumblr.com/f674a559153916b92bc503951ad10f53/tumblr_o2fy50sXY51r3pm3to10_1280.jpg"
+      }
+    ]
+  }
 ]
