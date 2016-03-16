@@ -1,0 +1,50 @@
+{
+  "title" : "Add-Art Essay",
+  "type" : "object",
+  "required" : ["title","artist", "description","thumbnail"],
+  "properties" : {
+    "title"  : {
+      "type": "string", 
+      "title": "Essay Title"
+    },
+    "artist"  : {
+      "type": "string", 
+      "title": "Artist"
+    },
+    "description" : {
+      "type": "string",
+      "title": "Description"
+    },
+    "link"  : { 
+      "type": "string",
+      "title": "Essay URL"
+    },
+    "thumbnail"  : {
+      "type": "string",
+      "title": "Thumbnail URL"
+    },
+    "works"  : {
+      "type"  : "array",
+      "title"  : "Works",
+      "items"  : {
+        "type" : "object",
+        "required" : ["image"],
+        "properties" : {
+          "image" : {
+            "type" : "string",
+            "title" : "Image URL"
+          },
+          "title" : {
+            "type" : "string",
+            "title" : "Title"
+          },
+          "link" : {
+            "type" : "string",
+            "title" : "Link"
+          }
+        }
+      }
+    }
+  }
+}
+
