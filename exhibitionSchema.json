@@ -9,7 +9,7 @@
     },
     "artist"  : {
       "type": "string", 
-      "title": "Artist"
+      "title": "Author"
     },
     "description" : {
       "type": "string",
@@ -17,7 +17,7 @@
     },
     "link"  : { 
       "type": "string",
-      "title": "Essay URL"
+      "title": "Author's Website / Essay Homepage"
     },
     "thumbnail"  : {
       "type": "string",
