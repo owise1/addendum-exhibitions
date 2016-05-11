@@ -1,5 +1,140 @@
 [
   {
+    "title" : "Fond, objet et ombre portée",
+    "artist" : "Victor Costales & Julia Rometti",
+    "description" : "Fond, objet et ombre portée follows the ongoing research of artist duo Victor Costales and Julia Rometti into the \"multiple becomings\" of forms and matter. In these study-collages three elements compose the original image: stone, its shadow and the background on which they are projected, each element is interchanged with other objects: the sun, the skin of a cactus, the walls of a construction in adobe, the erosion of a rock or the pattern of a palm tree leaf, etc. Details from native landscapes of the American Southwest superimpose upon one another, suggesting psychic images, or possibly a type of communication foreign to human intelligence. Links from these images travel to “entrances” into two films selected by the artists: Hopi: Techqua Ikachi, and Solaris by Andrei Tarkovsky.",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/VCJR/1.jpg",
+    "date" : 1463122800000,
+    "works" : [
+      {
+        "image" : "http://addendum.kadist.org/VCJR/1.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=0m02s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=1m57s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=8m17s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=9m36s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=11m48s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=18m45s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=46m20s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=50m35s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=52m24s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/2.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=11m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=15m18s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=17m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=43m38s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=51m14s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=58m20s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/3.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=0m02s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=1m57s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=8m17s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=9m36s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=11m48s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=18m45s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=46m20s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=50m35s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=52m24s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/4.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=11m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=15m18s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=17m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=43m38s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=51m14s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=58m20s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/5.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=0m02s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=1m57s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=8m17s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=9m36s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=11m48s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=18m45s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=46m20s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=50m35s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=52m24s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/6.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=11m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=15m18s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=17m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=43m38s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=51m14s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=58m20s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/7.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=0m02s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=1m57s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=8m17s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=9m36s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=11m48s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=18m45s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=46m20s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=50m35s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=52m24s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/8.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=11m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=15m18s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=17m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=43m38s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=51m14s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=58m20s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/9.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=0m02s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=1m57s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=8m17s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=9m36s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=11m48s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=18m45s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=46m20s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=50m35s",
+          "https://www.youtube.com/watch?v=vGdbpu1_STM&feature=youtu.be&t=52m24s"
+         ]
+      },
+      {
+        "image" : "http://addendum.kadist.org/VCJR/10.jpg",
+        "link" : [
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=11m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=15m18s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=17m16s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=43m38s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=51m14s",
+          "https://www.youtube.com/watch?v=XSSHnbjfBl4&feature=youtu.be&t=58m20s"
+         ]
+      }
+    ]
+  },
+  {
     "title" : "How long can we tolerate this?",
     "artist" : "Leah Modigliani",
     "description" : "10 images from artist Leah Modigliani's How long can we tolerate this? An incomplete record from 1933-1999 (2016), an installation comprised of press photographs of evictions taken during the years of the Glass-Steagall Act. The installation is also a timeline, a historical archive and a representation of working and middle-class material displacement.\n\nIn the context of an increasingly divisive 2016 federal election, this work speaks to the role of the press in shaping political consensus about what constitutes a shared ethical responsibility towards others.\n\nThe Glass-Steagall act was signed into law shortly after Franklin D. Roosevelt took office in 1933. To accompany the installation, Modigliani appropriated and revised his inaugural address, updating it to speak to the present:  Only a Foolish Opportunist Can Deny the Dark Realities of the Moment: A Presidential Address (2016).\n\nThe relevance of many of FDR’s words eighty-three years later, in conjunction with the past and present evictions of working class people remind us that while democracy is a powerful aspiration, it’s also a broken promise, and a work in progress.",
