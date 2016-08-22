@@ -1,5 +1,36 @@
 [
   {
+    "title" : "Performing Animals Postcards",
+    "artist" : "Dana Levy",
+    "description" : "",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/DL/Doves.jpg",
+    "date" : 1471905176178,
+    "works" : [
+      {
+        "image" : "http://addendum.kadist.org/DL/Doves.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Elephant.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Horse.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Ostrich.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Parrot.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Pettingzoo.jpg"
+      },
+      {
+        "image" : "http://addendum.kadist.org/DL/Snakes.jpg"
+      }
+    ]
+  },
+  {
     "title" : "Espacio Escultórico",
     "artist" : "Pedro Reyes",
     "description" : "Located on the campus of National University (UNAM) in Mexico City, and realized jointly by Helen Escobedo, Manuel Felguérez, Mathias Goeritz, Hersúa, Sebastian and Federico Silva (and assisted by Roberto Acuna) in 1979, Espacio Escultórico is undoubtedly one of the works most important of Land Art in the world and one of Mexico’s most important monumental sculpture. Its circular form alludes to the pyramid of Cuicuilco, first in Mesoamerica, integrating, pre-hispanic architecture with modern and contemporary art.\n\nWithin the area of Reserva Ecológica del Pedregal de San Ángel y de la Zona de Amortiguamiento de la Zona Núcleo, which was declared a World Heritage by UNESCO, Espacio Escultórico is a work that should be valued and protected as a cultural asset of the UNAM, the country and the world. Unfortunately that has not happened. In addition to poor maintenance and limited hours, a new construction project has obstructed the artwork. Building “H”, which is planned to house the department of Political and Social Sciences, has dramatically infringed on the artwork. Follow the links in the visual essay to learn more. ",
@@ -23,6 +54,7 @@
         "link" : 
           "https://www.facebook.com/salvemoselespacioescultorico"
                },
+
       {
         "image" : "http://addendum.kadist.org/PR/4.jpg",
         "link" : 
