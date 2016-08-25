@@ -2,31 +2,45 @@
   {
     "title" : "Performing Animals Postcards",
     "artist" : "Dana Levy",
-    "description" : "",
+    "description" : "Artist Dana Levy has long collected postcards, sometimes as informal research for her many videos and sculptures. Here she’s selected images—from the petting zoo, to the circus animal and snake charmer— where humans have developed relationships with other species. Several of these postcards are from Florida, and offer context for her recent film \"Eden Without Eve\", shot in the Everglades.",
     "link" : "http://addendum.kadist.org",
     "thumbnail" : "http://addendum.kadist.org/DL/Doves.jpg",
     "date" : 1471905176178,
     "works" : [
       {
-        "image" : "http://addendum.kadist.org/DL/Doves.jpg"
+        "image" : "http://addendum.kadist.org/DL/Doves.jpg",
+        "title" : "Departures (excerpt)",
+        "link" : "https://vimeo.com/144390699"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Elephant.jpg"
+        "image" : "http://addendum.kadist.org/DL/Elephant.jpg",
+        "title" : "How Ringling treat their elephants before they perform",
+        "link" : "https://www.youtube.com/watch?v=ECspj0daAlE"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Horse.jpg"
+        "image" : "http://addendum.kadist.org/DL/Horse.jpg",
+        "title" : "In the postcard is a Beduin guard.",
+        "link" : "https://www.youtube.com/watch?v=eQoWJt5wfJ8"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Ostrich.jpg"
+        "image" : "http://addendum.kadist.org/DL/Ostrich.jpg",
+        "title" : "postcard shows Ostrich Farm in Jacksonville FL",
+        "link" : "http://danalevy.net/wp-content/uploads/2016/08/OstrichFarmFL1905-3.pdf"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Parrot.jpg"
+        "image" : "http://addendum.kadist.org/DL/Parrot.jpg",
+        "title" : "Tropical Hobbyland was a Seminole Village in Miami. It became a tourist attraction. Here is footage of tourist videos of the tribe’s village life in 1925",
+        "link" : "https://www.youtube.com/watch?v=7X3pKNV63KE"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Pettingzoo.jpg"
+        "image" : "http://addendum.kadist.org/DL/Pettingzoo.jpg",
+        "title" : "Postcard shows Catskills Game Farm which opened in 1933 and closed in 2006 Link is home movie from the 1960s (tried to find a movie without music unsuccessfully )",
+        "link" : "https://www.youtube.com/watch?v=2KbJyW7gamc"
       },
       {
-        "image" : "http://addendum.kadist.org/DL/Snakes.jpg"
+        "image" : "http://addendum.kadist.org/DL/Snakes.jpg",
+        "title" : "Eden Without Eve (excerpt)",
+        "link" : "https://vimeo.com/143913512"
       }
     ]
   },
