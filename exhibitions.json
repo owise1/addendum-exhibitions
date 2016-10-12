@@ -376,5 +376,40 @@
       "image" : "http://addendum.kadist.org/LM/101989ClevelandFront.jpg"
       }
     ]
+  },
+    {
+    "title" : "What we think in America is not always clear",
+    "artist" : "US ENGLISH",
+    "description" : "The St. Louis based collaboration US English (James and Brea McAnally) offer a visual essay for election season. In the pdf that accompanies the essay they suggest: \"What we think in America is not always clear. It is still some form of wilderness, just another part of the world. We seek accurate representation of ourselves. An appropriate contra-diction. The question is, can we find fabrications that fit the circumstances of our lives, no more, no less?\"",
+    "link" : "http://addendum.kadist.org/JBM/US-English-Addendum.pdf",
+    "thumbnail" : "http://addendum.kadist.org/JBM/USE1.gif",
+    "date" : 1476304694515,
+    "works" : [
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE1.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE2.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE3.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE4.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE5.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE6.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE7.gif"
+      },
+      {
+      "image" : "http://addendum.kadist.org/JBM/USE8.gif"
+      }
+    ]
   }
+
 ]
