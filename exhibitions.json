@@ -386,44 +386,36 @@
     "date" : 1476304694515,
     "works" : [
       {
-      "image" : "http://addendum.kadist.org/JBM/USE1.gif"
-        "link" : 
-        "http://addendum.kadist.org/JBM/US-English-Addendum.pdf"
+        "image" : "http://addendum.kadist.org/JBM/USE1.gif",
+        "link" : "http://addendum.kadist.org/JBM/US-English-Addendum.pdf"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE2.gif"
-        "link" : 
-        "http://www.secession.net"
+        "image" : "http://addendum.kadist.org/JBM/USE2.gif",
+        "link" : "http://www.secession.net"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE3.gif"
-        "link" : 
-        "https://www.instagram.com/p/7jhvbbpc3L"
+        "image" : "http://addendum.kadist.org/JBM/USE3.gif",
+        "link" : "https://www.instagram.com/p/7jhvbbpc3L"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE4.gif"
-        "link" : 
-        "http://epc.buffalo.edu/authors/welch/from_language_is%20speech.html"
+        "image" : "http://addendum.kadist.org/JBM/USE4.gif",
+        "link" : "http://epc.buffalo.edu/authors/welch/from_language_is%20speech.html"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE5.gif"
-        "link" : 
-        "http://www.prepperforums.net/forum/political-news-topics"
+        "image" : "http://addendum.kadist.org/JBM/USE5.gif",
+        "link" : "http://www.prepperforums.net/forum/political-news-topics"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE6.gif"
-        "link" : 
-        "https://wikileaks.org/clinton-emails/?q=conspiracy&mfrom=&mto=&title=&notitle=&date_from=&date_to=&nofrom=&noto=&count=50&sort=0#searchresult"
+        "image" : "http://addendum.kadist.org/JBM/USE6.gif",
+        "link" : "https://wikileaks.org/clinton-emails/?q=conspiracy&mfrom=&mto=&title=&notitle=&date_from=&date_to=&nofrom=&noto=&count=50&sort=0#searchresult"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE7.gif"
-        "link" : 
-        "https://artleak3000.spikeartmagazine.com/thread/57ff18ce51769484142f08d9"
+        "image" : "http://addendum.kadist.org/JBM/USE7.gif",
+        "link" : "https://artleak3000.spikeartmagazine.com/thread/57ff18ce51769484142f08d9"
       },
       {
-      "image" : "http://addendum.kadist.org/JBM/USE8.gif"
-        "link" : 
-        "http://addendum.kadist.org/JBM/US-English-Addendum.pdf"
+        "image" : "http://addendum.kadist.org/JBM/USE8.gif",
+        "link" : "http://addendum.kadist.org/JBM/US-English-Addendum.pdf"
       }
     ]
   }
