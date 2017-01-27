@@ -418,6 +418,48 @@
         "link" : "http://addendum.kadist.org/JBM/US-English-Addendum.pdf"
       }
     ]
-  }
+  },
+  {
+    "title" : "What we think in America is not always clear",
+    "artist" : "Mads Lynnerup",
+    "description" : "Copenhagen born, Oakland based artist Mads Lynnerup offers a visual essay as a sequence of visual associations. Each images speaks metaphorically or obliquely to the present moment: minds that might change, little hands, signal to noise ratios, and missing those now past.\"",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/ML/1.gif",
+    "date" : 1476304694515,
+    "works" : [
+      {
+        "image" : "http://addendum.kadist.org/ML/1.jpg",
+        "link" : "https://www.youtube.com/watch?v=iUJu4Vsbcc4"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/2.jpg",
+        "link" : "https://www.youtube.com/watch?v=g6eUtfuQNyw"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/3.jpg",
+        "link" : "https://www.youtube.com/watch?v=tDQw21ntR64"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/4.jpg",
+        "link" : "https://www.youtube.com/watch?v=W_4jU1psvLI"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/5.jpg",
+        "link" : "https://www.youtube.com/watch?v=Jl3i_7p89aQ"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/6.jpg",
+        "link" : "https://soundcloud.com/thamesfestival/jubilee-horns"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/7.jpg",
+        "link" : "https://www.youtube.com/watch?v=bqLf3xW1v4g"
+      },
+      {
+        "image" : "http://addendum.kadist.org/ML/8.jpg",
+        "link" : "https://www.youtube.com/watch?v=ZS_6-IwMPjM"
+      }
+    ]
+}
 
 ]
