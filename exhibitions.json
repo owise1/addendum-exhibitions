@@ -45,6 +45,49 @@
     ]
   },
   {
+    "title" : "Because of Children on My Street",
+    "artist" : "Jon Rubin",
+    "description" : "Neighborhood moments captured by trans-discilpinary artist Jon Rubin, in Pittsburgh, PA.\"",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/JR/1.jpg",
+    "date" : 1504904358000,
+
+    "works" : [
+      {
+        "image" : "http://addendum.kadist.org/JR/1.jpg",
+        "link" : "https://apod.nasa.gov/"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/2.jpg",
+        "link" : "https://www.instagram.com/jonrubinstudio/"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/3.jpg",
+        "link" : "http://www.lenkaclayton.com/work/#/moons-from-next-door/"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/4.jpg",
+        "link" : "https://twitter.com/search?src=typd&q=%23RESIST"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/5.jpg",
+        "link" : "http://www.artbook.com/9781942884149.html"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/6.jpg",
+        "link" : "https://www.google.com/maps/place/Kirtland+St,+Pittsburgh,+PA+15208/@40.4447952,-79.9080146,3a,75y,299.3h,88.56t/data=!3m6!1e1!3m4!1sS6HnMu_TnhGfcD_KcPML9w!2e0!7i13312!8i6656!4m5!3m4!1s0x8834ede54a6cea81:0x716dd6ae6decd00b!8m2!3d40.4451328!4d-79.9078103"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/7.jpg",
+        "link" : "https://www.vox.com/culture/2017/8/28/16205048/game-of-thrones-season-7-cersei-daenerys-jon-snow"
+      },
+      {
+        "image" : "http://addendum.kadist.org/JR/8.jpg",
+        "link" : "https://www.instagram.com/jonrubinstudio/"
+      }
+    ]
+},
+  {
     "title" : "PIECES OF PAPER",
     "artist" : "Micah Lexier",
     "description" : "Micah Lexier is a critically acclaimed Canadian artist living in Toronto. His work often involves making, collecting and organizing in accord with systems of enumeration, geometry, time, and measurement and the particularities of their intersection and overlap with the organic and unpredictable lives of people. \"",
