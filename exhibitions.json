@@ -97,43 +97,43 @@
     "works" : [
       {
         "image" : "//addendum.kadist.orgER/1.jpg",
-        "link" : "#"
+        "link" : "https://es.wikipedia.org/wiki/Am%C3%A9rica"
       },
       {
         "image" : "//addendum.kadist.org/ER/2.jpg",
-        "link" : "#"
+        "link" : "https://es.wikipedia.org/wiki/America_(banda)"
       },
       {
         "image" : "//addendum.kadist.org/ER/3.jpg",
-        "link" : "#"
+        "link" : "https://es.wikipedia.org/wiki/Historia_de_Am%C3%A9rica"
       },
       {
         "image" : "//addendum.kadist.org/ER/4.jpg",
-        "link" : "#"
+        "link" : "https://pt.wikipedia.org/wiki/Am%C3%A9rica"
       },
       {
         "image" : "//addendum.kadist.org/ER/5.jpg",
-        "link" : "#"
+        "link" : "https://en.wikipedia.org/wiki/Americas"
       },
       {
         "image" : "//addendum.kadist.org/ER/6.jpg",
-        "link" : "#"
+        "link" : "https://es.wikipedia.org/wiki/Am%C3%A9rica_del_Norte"
       },
       {
         "image" : "//addendum.kadist.org/ER/7.jpg",
-        "link" : "#"
+        "link" : "https://en.wikipedia.org/wiki/America_(disambiguation)"
       },
         {
         "image" : "//addendum.kadist.org/ER/8.jpg",
-        "link" : "#"
+        "link" : "https://es.wikipedia.org/wiki/Am%C3%A9rica_Latina"
       },
         {
         "image" : "//addendum.kadist.org/ER/9.jpg",
-        "link" : "#"
+        "link" : "http://www.americasolidaria.org"
       },
       {
         "image" : "//addendum.kadist.org/ER/10.jpg",
-        "link" : "#"
+        "link" : "https://www.bcn.cl/observatorio/americas"
       }
     ]
 },
