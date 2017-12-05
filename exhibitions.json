@@ -88,6 +88,56 @@
     ]
 },
   {
+    "title" : "Las fotos de america",
+    "artist" : "Enrique Ramírez",
+    "description" : "Chilean artist Enrique Ramírez sees America in the strangest places.\"",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/ER/1.jpg",
+    "date" : 1512485918000,
+    "works" : [
+      {
+        "image" : "//addendum.kadist.orgER/1.jpg",
+        "link" : "https://www.youtube.com/watch?v=iUJu4Vsbcc4"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/2.jpg",
+        "link" : "https://www.youtube.com/watch?v=g6eUtfuQNyw"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/3.jpg",
+        "link" : "https://www.youtube.com/watch?v=tDQw21ntR64"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/4.jpg",
+        "link" : "https://www.youtube.com/watch?v=W_4jU1psvLI"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/5.jpg",
+        "link" : "https://www.youtube.com/watch?v=Jl3i_7p89aQ"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/6.jpg",
+        "link" : "https://soundcloud.com/thamesfestival/jubilee-horns"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/7.jpg",
+        "link" : "https://www.youtube.com/watch?v=bqLf3xW1v4g"
+      },
+        {
+        "image" : "//addendum.kadist.org/ER/8.jpg",
+        "link" : "https://www.youtube.com/watch?v=bqLf3xW1v4g"
+      },
+        {
+        "image" : "//addendum.kadist.org/ER/9.jpg",
+        "link" : "https://www.youtube.com/watch?v=bqLf3xW1v4g"
+      },
+      {
+        "image" : "//addendum.kadist.org/ER/10.jpg",
+        "link" : "https://www.youtube.com/watch?v=ZS_6-IwMPjM"
+      }
+    ]
+},
+  {
     "title" : "PIECES OF PAPER",
     "artist" : "Micah Lexier",
     "description" : "Micah Lexier is a critically acclaimed Canadian artist living in Toronto. His work often involves making, collecting and organizing in accord with systems of enumeration, geometry, time, and measurement and the particularities of their intersection and overlap with the organic and unpredictable lives of people. \"",
