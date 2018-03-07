@@ -45,6 +45,60 @@
     ]
   },
   {
+    "title" : "Heads and Tails",
+    "artist" : "Aurélien Froment",
+    "description" : "While the artist, Froment, was working as film projectionist, he was tasked with splicing together reels, and always saved a frame for himself.",
+    "link" : "http://addendum.kadist.org",
+    "thumbnail" : "http://addendum.kadist.org/AF/01.jpg",
+    "date" : 1520440858000,
+    "works" : [
+      {
+        "image" : "//addendum.kadist.org/AF/01.jpg",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/5/57/C._Stromayr%3B_Sewing_wound_after_herniotomy._1559_Wellcome_M0010186.jpg"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/2.jpg",
+        "link" : "https://www.google.co.uk/search?q=george+bush&client=firefox-b-ab&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjx7M6Ls9fZAhWKPFAKHVaXBjgQ_AUICigB&biw=1407&bih=728"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/3.jpg",
+        "link" : "https://www.google.co.uk/search?client=firefox-b&dcr=0&biw=1407&bih=728&tbm=isch&sa=1&ei=K2KeWpyoIMzQwALq2bDwBw&q=venise&oq=venise&gs_l=psy-ab.3..0l10.21127.21946.0.23288.6.6.0.0.0.0.174.760.0j6.6.0....0...1c.1.64.psy-ab..0.6.758...0i67k1j0i10k1.0.9mb6KyXCpa0"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/4.jpg",
+        "link" : "https://www.google.co.uk/maps/place/United+Nations+Secretariat+Building,+405+E+42nd+St,+New+York,+NY+10017,+USA/@40.7491608,-73.9696659,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2591c5b5896d7:0x5b6f3d4edb00a068!8m2!3d40.7491608!4d-73.9674772"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/5.jpg",
+        "link" : "http://www.magoffin.kyschools.us/1/Home"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/6.jpg",
+        "link" : "https://www.horlogeparlante.com/time-moscow-russia-TIMEenglish524901.html"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/7.jpg",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chauveau_-_Fables_de_La_Fontaine_-_01-14.png"
+      },
+        {
+        "image" : "//addendum.kadist.org/AF/8.jpg",
+        "link" : "https://www.google.co.uk/search?client=firefox-b&dcr=0&biw=1407&bih=728&tbm=isch&sa=1&ei=mGmeWpCmH42YsAe8laPQBQ&q=eclipse&oq=eclipse&gs_l=psy-ab.3..0i67k1j0l5j0i67k1l2j0l2.6054.8883.0.9102.7.5.0.2.2.0.196.633.0j5.5.0....0...1c.1.64.psy-ab..0.7.660....0.lmlpvSGB2Og"
+      },
+        {
+        "image" : "//addendum.kadist.org/AF/9.jpg",
+        "link" : "https://www.youtube.com/watch?v=BAcePPSsFP0"
+      },
+       {
+        "image" : "//addendum.kadist.org/AF/10.jpg",
+        "link" : "https://www.nasa.gov/multimedia/imagegallery/iotd.html"
+      },
+      {
+        "image" : "//addendum.kadist.org/AF/11.jpg",
+        "link" : "https://www.youtube.com/watch?v=Dyi4FGNPcIg"
+      }
+    ]
+},
+  {
     "title" : "Because of Children on My Street",
     "artist" : "Jon Rubin",
     "description" : "Neighborhood moments captured by trans-discilpinary artist Jon Rubin, in Pittsburgh, PA.\"",
@@ -96,7 +150,7 @@
     "date" : 1512485918000,
     "works" : [
       {
-        "image" : "//addendum.kadist.orgER/1.jpg",
+        "image" : "//addendum.kadist.org/ER/1.jpg",
         "link" : "https://es.wikipedia.org/wiki/Am%C3%A9rica"
       },
       {
