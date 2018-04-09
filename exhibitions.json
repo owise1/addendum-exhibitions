@@ -44,6 +44,60 @@
       }
     ]
   },
+{
+ "title" : "Empty Forest",
+    "artist" : "Tuan Andrew Nguyen",
+    "description" : "Part of a larger project, Emtpy Forest probes the relationships between mythology, worship, animal extinction, human consumption and political protest. Nguyen asks: can the concept of extinction become tangible or visible? And can it serve as a conduit for understanding our belief systems?",
+    "link" : "http://www.tuanandrewnguyen.com/emptyforest",
+    "thumbnail" : "http://addendum.kadist.org/TAN/01.jpg",
+    "date" : 1523303039000,
+    "works" : [
+      {
+        "image" : "//addendum.kadist.org/TAN/01.jpg",
+        "link" : "http://www.bbc.com/earth/story/20160920-we-know-exactly-how-the-vietnamese-javan-rhino-went-extinct"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/2.jpg",
+        "link" : "http://www.dw.com/en/why-our-obsession-with-animals-is-schizophrenic/a-39311074"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/3.jpg",
+        "link" : "https://edition.cnn.com/2015/01/29/opinion/sutter-pangolin-psa-vietnam/index.html"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/4.jpg",
+        "link" : "http://www.illegalwildlifetrade.net/research/"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/5.jpg",
+        "link" : "https://en.wikipedia.org/wiki/Saola"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/6.jpg",
+        "link" : "https://en.wikipedia.org/wiki/Cultured_meat"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/7.jpg",
+        "link" : "https://www.smithsonianmag.com/science-nature/ten-threatened-and-endangered-species-used-in-traditional-medicine-112814487/"
+      },
+        {
+        "image" : "//addendum.kadist.org/TAN/8.jpg",
+        "link" : "https://www.zegrahm.com/blog/thien-hau-history-vietnamese-whale-worship"
+      },
+        {
+        "image" : "//addendum.kadist.org/TAN/9.jpg",
+        "link" : "https://science.howstuffworks.com/life/evolution/extinction1.htm"
+      },
+       {
+        "image" : "//addendum.kadist.org/TAN/10.jpg",
+        "link" : "https://en.wikipedia.org/wiki/D%C3%BCrer%27s_Rhinoceros"
+      },
+      {
+        "image" : "//addendum.kadist.org/TAN/11.jpg",
+        "link" : "https://www.foeeurope.org/sites/default/files/publications/foee_hbf_meatatlas_jan2014.pdf"
+      }
+    ]
+},
   {
     "title" : "Heads and Tails",
     "artist" : "Aurélien Froment",
