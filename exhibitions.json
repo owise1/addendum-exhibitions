@@ -44,6 +44,80 @@
       }
     ]
   },
+  {
+    "title" : "For Freedoms",
+    "artist" : "Multiple artists",
+    "description" : "For Freedoms outdoor activations invite artists to use the tools of art and advertising to encourage civic engagement. We believe that if artists’ voices replace advertising across the country, public discourse will become more nuanced. Artists featured: Paula Crown, Jamila El Sahli, Awol Erizku, Theaster Gates, Eric Gottesman, Emily Hanako Momohara, Alfredo Jaar, Marilyn Minter, Donald Moffett, Lorraine O'Grady, Trevor Paglen, Xaviera Simmons, Christine Sun Kim, Hank Willis Thomas",
+    "link" : "https://forfreedoms.org/",
+    "thumbnail" : "http://addendum.kadist.org/FF/14.jpg",
+    "date" : 1543438591178, 
+    "works" : [
+     {
+        "image" : "//addendum.kadist.org/FF/1.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/2.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/3.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/4.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/5.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/6.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/7.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+        {
+        "image" : "//addendum.kadist.org/FF/8.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+        {
+        "image" : "//addendum.kadist.org/FF/9.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/10.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/11.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/12.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/13.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/14.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+       {
+        "image" : "//addendum.kadist.org/FF/15.jpg",
+        "link" : "https://forfreedoms.org/"
+      },
+      {
+        "image" : "//addendum.kadist.org/FF/16.jpg",
+        "link" : "https://forfreedoms.org/"
+      }
+    ]
+  },
 {
  "title" : "Empty Forest",
     "artist" : "Tuan Andrew Nguyen",
